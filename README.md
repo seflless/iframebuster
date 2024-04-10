@@ -1,9 +1,9 @@
-Proxee
-======
+# Frame Buster
 
 # About
 
 A small, simple (and hacky) proxy server used to:
+
 - remove X-Frame-Options headers
 - remove frame busters
 - bypass real-browser detection (sites that prevent curl for example)
