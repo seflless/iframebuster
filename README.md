@@ -12,7 +12,7 @@ A small, simple (and hacky) proxy server used to:
 # Example
 
 1. Start Proxee HTTP Server with `node server.js`
-2. Navigate to [[http://localhost:3000/example.html](http://localhost:3000/?proxy_url=https://capitalizemytitle.com)]([http://localhost:3000/example.html](http://localhost:3000/?proxy_url=https://capitalizemytitle.com))
+2. Navigate to [http://localhost:3000/example.html](http://localhost:3000/?proxy_url=https://capitalizemytitle.com)](http://localhost:3000/example.html](http://localhost:3000/?proxy_url=https://capitalizemytitle.com)
 
 3. See how iframing works with and without Proxee
 
